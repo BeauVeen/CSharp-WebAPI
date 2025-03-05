@@ -1,0 +1,6 @@
+@ExotischNederlandApi_HostAddress = http://localhost:5101
+
+GET {{ExotischNederlandApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
